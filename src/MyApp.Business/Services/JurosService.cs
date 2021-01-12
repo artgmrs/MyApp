@@ -6,37 +6,14 @@ namespace MyApp.Business.Services
 {
     public class JurosService : IJurosService
     {
-        public string CalculaJuros(ParametrosCalculo parametros)
+        public double CalculaJuros(ParametrosCalculo parametros)
         {
-            Juros valorJuros = RetornaValorJuros();
+            var porcentagem = Math.Pow(
+                (1 + Juros.ValorJuros), parametros.Meses);
 
-            string soma = Math.Pow(
-                (double)parametros.ValorInicial * (1 + valorJuros.ValorJuros),
-                parametros.Meses).ToString();
+            var resultado = parametros.ValorInicial * porcentagem;
 
-            decimal somaTruncada;
-            string subString;
-
-            if (soma.Length < 5)
-            {
-                somaTruncada = Convert.ToDecimal(soma) / 100;
-            }
-            else
-            {
-                subString = soma.Substring(0, 5);
-                somaTruncada = Convert.ToDecimal(subString) / 100;
-            }
-
-            var resultado = somaTruncada.ToString("F2");
-
-            return resultado;
-
-        }
-
-        public Juros RetornaValorJuros()
-        {
-            Juros juros = new Juros();
-            return juros;
+            return Math.Truncate(resultado * 100) / 100;
         }
     }
 }

@@ -5,12 +5,12 @@ namespace MyApp.Business.Models
     public class ParametrosCalculo
     {
         [Required]
-        public decimal ValorInicial { get; set; }
+        public double ValorInicial { get; set; }
 
         [Required]
         public int Meses { get; set; }
 
-        public ParametrosCalculo(decimal valorInicial, int meses)
+        public ParametrosCalculo(double valorInicial, int meses)
         {
             ValorInicial = valorInicial;
             Meses = meses;

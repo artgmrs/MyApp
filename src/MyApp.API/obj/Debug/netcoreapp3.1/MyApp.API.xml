@@ -4,7 +4,7 @@
         <name>MyApp.API</name>
     </assembly>
     <members>
-        <member name="M:MyApp.API.Controllers.CalculaJurosController.CalculaJuros(System.Decimal,System.Int32)">
+        <member name="M:MyApp.API.Controllers.CalculaJurosController.CalculaJuros(System.Double,System.Int32)">
             <summary>
             Retorna o resultado do cálculo de juros a partir dos parâmetros recebidos
             </summary>

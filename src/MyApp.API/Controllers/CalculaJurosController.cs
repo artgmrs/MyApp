@@ -36,7 +36,7 @@ namespace MyApp.API.Controllers
         [Produces("application/json")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public IActionResult CalculaJuros(decimal valorInicial, int meses)
+        public IActionResult CalculaJuros(double valorInicial, int meses)
         {
             ParametrosCalculo parametros = new ParametrosCalculo(valorInicial, meses);
 
@@ -44,7 +44,7 @@ namespace MyApp.API.Controllers
 
             if (!resultadoValidador.IsValid) return BadRequest(new Retorno(false, "Algo deu errado", resultadoValidador.Errors));
 
-            var valorFinal = _jurosService.CalculaJuros(parametros);
+            var valorFinal = _jurosService.CalculaJuros(parametros).ToString("F2");
 
             return Ok(new Retorno(true, "O valor foi calculado com sucesso!", new { valorFinal }));
         }

@@ -13,7 +13,7 @@ namespace MyApp.Tests.UnitTests
         [InlineData(100, 5)]
         [InlineData(1, 12)]
         [InlineData(500, 2)]
-        public void OperacaoValida_AdicionoValoresValidos_DeveRetornarOperacaoValida(decimal valorInicial, int meses)
+        public void OperacaoValida_AdicionoValoresValidos_DeveRetornarOperacaoValida(double valorInicial, int meses)
         {
             //Arrange
             _validadorParametros = new ValidadorParametros();
@@ -30,7 +30,7 @@ namespace MyApp.Tests.UnitTests
         [InlineData(-1, 0.2)]
         [InlineData(100, 13)]
         [InlineData(0, 0)]
-        public void OperacaoValida_AdicionoValoresInvalidos_DeveRetornarOperacaoInvalida(decimal valorInicial, int meses)
+        public void OperacaoValida_AdicionoValoresInvalidos_DeveRetornarOperacaoInvalida(double valorInicial, int meses)
         {
             //Arrange
             _validadorParametros = new ValidadorParametros();

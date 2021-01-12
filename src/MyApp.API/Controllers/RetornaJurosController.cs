@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using MyApp.API.ViewModels;
 using MyApp.Business.Interfaces;
+using MyApp.Business.Models;
 
 namespace MyApp.API.Controllers
 {
@@ -24,9 +25,7 @@ namespace MyApp.API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         public IActionResult RetornaValorJuros()
         {
-            var valorJuros = _jurosService.RetornaValorJuros();
-
-            return Ok(new Retorno(true, "O valor de juros foi recebido com sucesso", valorJuros));
+            return Ok(new Retorno(true, "O valor de juros foi recebido com sucesso", new { valorJuros = Juros.ValorJuros }));
         }
     }
 }
