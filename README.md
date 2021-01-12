@@ -5,10 +5,10 @@ Duas API's em ASP.NET Core WebAPI. Com documentação, testes unitários e de in
 # API's criadas
 
 - CalculaJuros:
--- /api/calculaJuros
--- /api/calculaJuros/showMeTheCode
+-- /api/calculajuros
+-- /api/calculajuros/showmethecode
 - RetornaJuros.
--- /api/retornaJuros
+-- /api/retornajuros
 
 # Consta no projeto:
 
