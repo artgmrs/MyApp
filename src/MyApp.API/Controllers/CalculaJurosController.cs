@@ -59,7 +59,7 @@ namespace MyApp.API.Controllers
         {
             ShowMeTheCode code = new ShowMeTheCode();
 
-            return Ok(new Retorno(true, "O código do github foi recebido com sucesso!", code));
+            return Ok(new Retorno(true, "O link do código no github foi recebido com sucesso!", code));
         }
     }
 }
