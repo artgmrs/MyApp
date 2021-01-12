@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "51NZ+BrByMjmJlMsdFOcJgbnaDQiX9RwpaR8Eivey5czbkLUS6IfeFNloWbNEt2C/SKkscWbWc/MgzoWJIJ5mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arthu\\source\\repos\\Projeto Softplan\\MyApp\\src\\MyApp.Business\\MyApp.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthu\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\arthu\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
+    "C:\\Users\\arthu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
+    "C:\\Users\\arthu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\arthu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

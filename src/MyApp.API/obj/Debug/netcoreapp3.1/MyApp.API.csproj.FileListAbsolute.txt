@@ -1,0 +1,96 @@
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.exe
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.AssemblyInfo.cs
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\staticwebassets\MyApp.API.StaticWebAssets.Manifest.cache
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\staticwebassets\MyApp.API.StaticWebAssets.xml
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.deps.json
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.runtimeconfig.json
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.runtimeconfig.dev.json
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.pdb
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.csproj.CopyComplete
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.pdb
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.genruntimeconfig.cache
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.Business.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.Business.pdb
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.exe
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.deps.json
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.runtimeconfig.json
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.runtimeconfig.dev.json
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.pdb
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.Business.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.Business.pdb
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.csprojAssemblyReference.cache
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.AssemblyInfoInputs.cache
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.AssemblyInfo.cs
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.csproj.CoreCompileInputs.cache
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.RazorTargetAssemblyInfo.cache
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.csproj.CopyComplete
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\staticwebassets\MyApp.API.StaticWebAssets.Manifest.cache
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\staticwebassets\MyApp.API.StaticWebAssets.xml
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.pdb
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.genruntimeconfig.cache
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.exe
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.deps.json
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.runtimeconfig.json
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.runtimeconfig.dev.json
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.pdb
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.Business.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.Business.pdb
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.AssemblyInfo.cs
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.csproj.CopyComplete
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\staticwebassets\MyApp.API.StaticWebAssets.Manifest.cache
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\staticwebassets\MyApp.API.StaticWebAssets.xml
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.pdb
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.genruntimeconfig.cache
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\MyApp.API.xml
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.xml
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.API\obj\Debug\netcoreapp3.1\MyApp.API.MvcApplicationPartsAssemblyInfo.cache

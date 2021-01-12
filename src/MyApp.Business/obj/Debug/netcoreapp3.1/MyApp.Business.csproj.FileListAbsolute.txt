@@ -1,0 +1,27 @@
+C:\Users\arthu\source\repos\MyApp\src\MyApp.Business\bin\Debug\netcoreapp3.1\MyApp.Business.deps.json
+C:\Users\arthu\source\repos\MyApp\src\MyApp.Business\bin\Debug\netcoreapp3.1\MyApp.Business.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.Business\bin\Debug\netcoreapp3.1\MyApp.Business.pdb
+C:\Users\arthu\source\repos\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.AssemblyInfo.cs
+C:\Users\arthu\source\repos\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.dll
+C:\Users\arthu\source\repos\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.pdb
+C:\Users\arthu\source\repos\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.csproj.CoreCompileInputs.cache
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.Business\bin\Debug\netcoreapp3.1\MyApp.Business.deps.json
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.Business\bin\Debug\netcoreapp3.1\MyApp.Business.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.Business\bin\Debug\netcoreapp3.1\MyApp.Business.pdb
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.csprojAssemblyReference.cache
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.AssemblyInfoInputs.cache
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.AssemblyInfo.cs
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.csproj.CoreCompileInputs.cache
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.dll
+D:\Dev\Backup MyApp\3\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.pdb
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.Business\bin\Debug\netcoreapp3.1\MyApp.Business.deps.json
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.Business\bin\Debug\netcoreapp3.1\MyApp.Business.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.Business\bin\Debug\netcoreapp3.1\MyApp.Business.pdb
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.AssemblyInfo.cs
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.dll
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.pdb
+C:\Users\arthu\source\repos\Projeto Softplan\MyApp\src\MyApp.Business\obj\Debug\netcoreapp3.1\MyApp.Business.csproj.CoreCompileInputs.cache

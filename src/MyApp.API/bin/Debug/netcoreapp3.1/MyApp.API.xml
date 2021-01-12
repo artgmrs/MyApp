@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyApp.API</name>
+    </assembly>
+    <members>
+        <member name="M:MyApp.API.Controllers.CalculaJurosController.CalculaJuros(System.Decimal,System.Int32)">
+            <summary>
+            Retorna o resultado do cálculo de juros a partir dos parâmetros recebidos
+            </summary>
+            <remarks>
+            Request simples:
+            
+                {
+                    "valorInicial": 100,
+                    "meses": 5
+                } 
+            
+            </remarks>
+        </member>
+        <member name="M:MyApp.API.Controllers.CalculaJurosController.ShowMeTheCode">
+            <summary>
+                Retorna a URL do código fonte no github
+            </summary>
+        </member>
+        <member name="M:MyApp.API.Controllers.RetornaJurosController.RetornaValorJuros">
+            <summary>
+                Retorna a taxa de juros fixa no código
+            </summary>
+        </member>
+    </members>
+</doc>
