@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using MyApp.API.ViewModels;
-using MyApp.Business.Interfaces;
 using MyApp.Business.Models;
 
 namespace MyApp.API.Controllers
@@ -10,13 +9,6 @@ namespace MyApp.API.Controllers
     [ApiController]
     public class RetornaJurosController : ControllerBase
     {
-        private readonly IJurosService _jurosService;
-
-        public RetornaJurosController(IJurosService jurosService)
-        {
-            _jurosService = jurosService;
-        }
-
         /// <summary>
         ///     Retorna a taxa de juros fixa no código
         /// </summary>
